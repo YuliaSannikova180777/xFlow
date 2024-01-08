@@ -1,0 +1,7 @@
+[2024-01-08T19:12:40.902+0300] {taskinstance.py:1957} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: youtube_comments_score.get_data scheduled__2023-03-20T00:00:00+00:00 [queued]>
+[2024-01-08T19:12:41.046+0300] {taskinstance.py:1957} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: youtube_comments_score.get_data scheduled__2023-03-20T00:00:00+00:00 [queued]>
+[2024-01-08T19:12:41.050+0300] {taskinstance.py:2171} INFO - Starting attempt 1 of 2
+[2024-01-08T19:12:41.197+0300] {taskinstance.py:2192} INFO - Executing <Task(BashOperator): get_data> on 2023-03-20 00:00:00+00:00
+[2024-01-08T19:12:41.258+0300] {standard_task_runner.py:60} INFO - Started process 34063 to run task
+[2024-01-08T19:12:41.298+0300] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'youtube_comments_score', 'get_data', 'scheduled__2023-03-20T00:00:00+00:00', '--job-id', '1674', '--raw', '--subdir', 'DAGS_FOLDER/youtube_comments_score.py', '--cfg-path', '/tmp/tmp19sei220']
+[2024-01-08T19:12:41.312+0300] {standard_task_runner.py:88} INFO - Job 1674: Subtask get_data

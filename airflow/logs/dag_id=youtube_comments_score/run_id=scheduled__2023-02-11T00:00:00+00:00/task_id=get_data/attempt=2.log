@@ -1,0 +1,36 @@
+[2024-01-08T19:04:09.048+0300] {taskinstance.py:1957} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: youtube_comments_score.get_data scheduled__2023-02-11T00:00:00+00:00 [queued]>
+[2024-01-08T19:04:09.118+0300] {taskinstance.py:1957} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: youtube_comments_score.get_data scheduled__2023-02-11T00:00:00+00:00 [queued]>
+[2024-01-08T19:04:09.118+0300] {taskinstance.py:2171} INFO - Starting attempt 2 of 2
+[2024-01-08T19:04:09.187+0300] {taskinstance.py:2192} INFO - Executing <Task(BashOperator): get_data> on 2023-02-11 00:00:00+00:00
+[2024-01-08T19:04:09.215+0300] {standard_task_runner.py:60} INFO - Started process 28602 to run task
+[2024-01-08T19:04:09.231+0300] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'youtube_comments_score', 'get_data', 'scheduled__2023-02-11T00:00:00+00:00', '--job-id', '1628', '--raw', '--subdir', 'DAGS_FOLDER/youtube_comments_score.py', '--cfg-path', '/tmp/tmpkcx9h2by']
+[2024-01-08T19:04:09.236+0300] {standard_task_runner.py:88} INFO - Job 1628: Subtask get_data
+[2024-01-08T19:04:09.693+0300] {task_command.py:423} INFO - Running <TaskInstance: youtube_comments_score.get_data scheduled__2023-02-11T00:00:00+00:00 [running]> on host airflow
+[2024-01-08T19:04:10.339+0300] {taskinstance.py:2481} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='admin' AIRFLOW_CTX_DAG_ID='youtube_comments_score' AIRFLOW_CTX_TASK_ID='get_data' AIRFLOW_CTX_EXECUTION_DATE='2023-02-11T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-02-11T00:00:00+00:00'
+[2024-01-08T19:04:10.344+0300] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2024-01-08T19:04:10.352+0300] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'python3 /home/angry/mlops_3/scripts/get_data.py']
+[2024-01-08T19:04:10.432+0300] {subprocess.py:86} INFO - Output:
+[2024-01-08T19:04:13.271+0300] {subprocess.py:93} INFO - Traceback (most recent call last):
+[2024-01-08T19:04:13.271+0300] {subprocess.py:93} INFO -   File "/home/angry/mlops_3/scripts/get_data.py", line 9, in <module>
+[2024-01-08T19:04:13.272+0300] {subprocess.py:93} INFO -     video = api.search_by_keywords(q=query, search_type=["video"], count=10, limit=30)
+[2024-01-08T19:04:13.272+0300] {subprocess.py:93} INFO -   File "/home/angry/.local/lib/python3.10/site-packages/pyyoutube/api.py", line 1750, in search_by_keywords
+[2024-01-08T19:04:13.272+0300] {subprocess.py:93} INFO -     return self.search(
+[2024-01-08T19:04:13.273+0300] {subprocess.py:93} INFO -   File "/home/angry/.local/lib/python3.10/site-packages/pyyoutube/api.py", line 1683, in search
+[2024-01-08T19:04:13.274+0300] {subprocess.py:93} INFO -     res_data = self.paged_by_page_token(resource="search", args=args, count=count)
+[2024-01-08T19:04:13.274+0300] {subprocess.py:93} INFO -   File "/home/angry/.local/lib/python3.10/site-packages/pyyoutube/api.py", line 487, in paged_by_page_token
+[2024-01-08T19:04:13.275+0300] {subprocess.py:93} INFO -     data = self._parse_response(resp)  # origin response
+[2024-01-08T19:04:13.275+0300] {subprocess.py:93} INFO -   File "/home/angry/.local/lib/python3.10/site-packages/pyyoutube/api.py", line 327, in _parse_response
+[2024-01-08T19:04:13.276+0300] {subprocess.py:93} INFO -     raise PyYouTubeException(response)
+[2024-01-08T19:04:13.276+0300] {subprocess.py:93} INFO - pyyoutube.error.PyYouTubeException: YouTubeException(status_code=403,message=The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.)
+[2024-01-08T19:04:13.426+0300] {subprocess.py:97} INFO - Command exited with return code 1
+[2024-01-08T19:04:13.526+0300] {taskinstance.py:2699} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/taskinstance.py", line 433, in _execute_task
+    result = execute_callable(context=context, **execute_callable_kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/operators/bash.py", line 212, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2024-01-08T19:04:13.552+0300] {taskinstance.py:1138} INFO - Marking task as FAILED. dag_id=youtube_comments_score, task_id=get_data, execution_date=20230211T000000, start_date=20240108T160409, end_date=20240108T160413
+[2024-01-08T19:04:13.658+0300] {standard_task_runner.py:107} ERROR - Failed to execute job 1628 for task get_data (Bash command failed. The command returned a non-zero exit code 1.; 28602)
+[2024-01-08T19:04:13.722+0300] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2024-01-08T19:04:14.324+0300] {taskinstance.py:3281} INFO - 0 downstream tasks scheduled from follow-on schedule check

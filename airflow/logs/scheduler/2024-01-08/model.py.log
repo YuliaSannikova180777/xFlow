@@ -1,0 +1,470 @@
+[2024-01-08T17:37:09.797+0300] {processor.py:161} INFO - Started process (PID=5405) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T17:37:09.799+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T17:37:09.801+0300] {logging_mixin.py:188} INFO - [2024-01-08T17:37:09.800+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T17:37:09.863+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T17:37:10.042+0300] {logging_mixin.py:188} INFO - [2024-01-08T17:37:10.042+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T17:37:10.148+0300] {logging_mixin.py:188} INFO - [2024-01-08T17:37:10.148+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T14:36:00+00:00, run_after=2024-01-08T14:37:00+00:00
+[2024-01-08T17:37:10.250+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.468 seconds
+[2024-01-08T17:37:40.364+0300] {processor.py:161} INFO - Started process (PID=5753) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T17:37:40.368+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T17:37:40.371+0300] {logging_mixin.py:188} INFO - [2024-01-08T17:37:40.370+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T17:37:40.404+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T17:37:40.516+0300] {logging_mixin.py:188} INFO - [2024-01-08T17:37:40.516+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T17:37:40.604+0300] {logging_mixin.py:188} INFO - [2024-01-08T17:37:40.603+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T14:36:00+00:00, run_after=2024-01-08T14:37:00+00:00
+[2024-01-08T17:37:40.676+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.326 seconds
+[2024-01-08T17:38:11.144+0300] {processor.py:161} INFO - Started process (PID=6069) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T17:38:11.148+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T17:38:11.150+0300] {logging_mixin.py:188} INFO - [2024-01-08T17:38:11.149+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T17:38:11.170+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T17:38:11.268+0300] {logging_mixin.py:188} INFO - [2024-01-08T17:38:11.267+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T17:38:11.332+0300] {logging_mixin.py:188} INFO - [2024-01-08T17:38:11.331+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T14:37:00+00:00, run_after=2024-01-08T14:38:00+00:00
+[2024-01-08T17:38:11.383+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.250 seconds
+[2024-01-08T17:38:42.187+0300] {processor.py:161} INFO - Started process (PID=6385) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T17:38:42.189+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T17:38:42.191+0300] {logging_mixin.py:188} INFO - [2024-01-08T17:38:42.191+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T17:38:42.219+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T17:38:42.325+0300] {logging_mixin.py:188} INFO - [2024-01-08T17:38:42.324+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T17:38:42.389+0300] {logging_mixin.py:188} INFO - [2024-01-08T17:38:42.388+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T14:37:00+00:00, run_after=2024-01-08T14:38:00+00:00
+[2024-01-08T17:38:42.435+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.258 seconds
+[2024-01-08T18:15:15.885+0300] {processor.py:161} INFO - Started process (PID=7347) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:15:15.887+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:15:15.889+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:15:15.888+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:15:15.936+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:15:16.303+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:15:16.302+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:15:16.334+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:15:16.333+0300] {dag.py:3055} INFO - Creating ORM DAG for Hello-world
+[2024-01-08T18:15:16.361+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:15:16.361+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:14:00+00:00, run_after=2024-01-08T15:15:00+00:00
+[2024-01-08T18:15:16.405+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.541 seconds
+[2024-01-08T18:15:47.406+0300] {processor.py:161} INFO - Started process (PID=7688) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:15:47.413+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:15:47.416+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:15:47.415+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:15:47.466+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:15:47.655+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:15:47.655+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:15:47.744+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:15:47.744+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:14:00+00:00, run_after=2024-01-08T15:15:00+00:00
+[2024-01-08T18:15:47.833+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.444 seconds
+[2024-01-08T18:27:48.437+0300] {processor.py:161} INFO - Started process (PID=8343) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:27:48.444+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:27:48.446+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:27:48.445+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:27:48.595+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:27:49.145+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:27:49.127+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:27:49.569+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:27:49.567+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:26:00+00:00, run_after=2024-01-08T15:27:00+00:00
+[2024-01-08T18:27:50.001+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 1.583 seconds
+[2024-01-08T18:31:42.804+0300] {processor.py:161} INFO - Started process (PID=9461) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:31:42.855+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:31:42.887+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:31:42.875+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:31:43.325+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:31:44.547+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:31:44.546+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:31:46.160+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:31:46.159+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:30:00+00:00, run_after=2024-01-08T15:31:00+00:00
+[2024-01-08T18:31:48.545+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 6.006 seconds
+[2024-01-08T18:34:11.093+0300] {processor.py:161} INFO - Started process (PID=10442) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:34:11.107+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:34:11.111+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:34:11.110+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:34:11.944+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:34:16.386+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:34:16.385+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:34:18.900+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:34:18.900+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:33:00+00:00, run_after=2024-01-08T15:34:00+00:00
+[2024-01-08T18:34:20.065+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 9.007 seconds
+[2024-01-08T18:37:10.767+0300] {processor.py:161} INFO - Started process (PID=11583) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:37:10.838+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:37:10.840+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:37:10.840+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:37:12.045+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:37:14.571+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:37:14.570+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:37:17.226+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:37:17.225+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:36:00+00:00, run_after=2024-01-08T15:37:00+00:00
+[2024-01-08T18:37:17.970+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 7.497 seconds
+[2024-01-08T18:38:22.522+0300] {processor.py:161} INFO - Started process (PID=12162) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:38:22.584+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:38:22.605+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:38:22.603+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:38:22.918+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:38:23.694+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:38:23.694+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:38:24.344+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:38:24.235+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:37:00+00:00, run_after=2024-01-08T15:38:00+00:00
+[2024-01-08T18:38:24.594+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 2.157 seconds
+[2024-01-08T18:40:08.671+0300] {processor.py:161} INFO - Started process (PID=12750) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:40:08.712+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:40:08.714+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:40:08.713+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:40:08.988+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:40:10.296+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:40:10.295+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:40:10.679+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:40:10.679+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:39:00+00:00, run_after=2024-01-08T15:40:00+00:00
+[2024-01-08T18:40:12.293+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 3.917 seconds
+[2024-01-08T18:41:19.846+0300] {processor.py:161} INFO - Started process (PID=13380) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:41:19.858+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:41:19.860+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:41:19.859+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:41:20.143+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:41:20.743+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:41:20.743+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:41:21.250+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:41:21.249+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:40:00+00:00, run_after=2024-01-08T15:41:00+00:00
+[2024-01-08T18:41:21.642+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 1.850 seconds
+[2024-01-08T18:42:11.560+0300] {processor.py:161} INFO - Started process (PID=13955) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:42:11.575+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:42:11.593+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:42:11.592+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:42:11.655+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:42:11.887+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:42:11.886+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:42:11.981+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:42:11.979+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:41:00+00:00, run_after=2024-01-08T15:42:00+00:00
+[2024-01-08T18:42:12.039+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.518 seconds
+[2024-01-08T18:42:43.466+0300] {processor.py:161} INFO - Started process (PID=14302) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:42:43.469+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:42:43.470+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:42:43.470+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:42:43.669+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:42:44.349+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:42:44.348+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:42:44.792+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:42:44.792+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:41:00+00:00, run_after=2024-01-08T15:42:00+00:00
+[2024-01-08T18:42:45.209+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 1.803 seconds
+[2024-01-08T18:43:15.340+0300] {processor.py:161} INFO - Started process (PID=14717) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:43:15.343+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:43:15.344+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:43:15.344+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:43:15.366+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:43:15.481+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:43:15.480+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:43:15.579+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:43:15.579+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:42:00+00:00, run_after=2024-01-08T15:43:00+00:00
+[2024-01-08T18:43:15.638+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.308 seconds
+[2024-01-08T18:43:45.835+0300] {processor.py:161} INFO - Started process (PID=15032) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:43:45.840+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:43:45.845+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:43:45.842+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:43:45.893+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:43:46.032+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:43:46.031+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:43:46.142+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:43:46.141+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:42:00+00:00, run_after=2024-01-08T15:43:00+00:00
+[2024-01-08T18:43:46.218+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.405 seconds
+[2024-01-08T18:44:16.749+0300] {processor.py:161} INFO - Started process (PID=15349) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:44:16.753+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:44:16.756+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:44:16.755+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:44:16.794+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:44:16.963+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:44:16.963+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:44:17.052+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:44:17.051+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:43:00+00:00, run_after=2024-01-08T15:44:00+00:00
+[2024-01-08T18:44:17.101+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.367 seconds
+[2024-01-08T18:44:50.025+0300] {processor.py:161} INFO - Started process (PID=15671) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:44:50.045+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:44:50.047+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:44:50.047+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:44:50.136+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:44:50.365+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:44:50.364+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:44:50.556+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:44:50.556+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:43:00+00:00, run_after=2024-01-08T15:44:00+00:00
+[2024-01-08T18:44:50.652+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.651 seconds
+[2024-01-08T18:45:22.750+0300] {processor.py:161} INFO - Started process (PID=16066) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:45:22.775+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:45:22.779+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:45:22.778+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:45:22.808+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:45:23.417+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:45:23.417+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:45:23.814+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:45:23.814+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:44:00+00:00, run_after=2024-01-08T15:45:00+00:00
+[2024-01-08T18:45:24.094+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 1.398 seconds
+[2024-01-08T18:46:04.771+0300] {processor.py:161} INFO - Started process (PID=16489) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:46:04.789+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:46:04.791+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:46:04.790+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:46:04.904+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:46:05.398+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:46:05.398+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:46:05.777+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:46:05.776+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:45:00+00:00, run_after=2024-01-08T15:46:00+00:00
+[2024-01-08T18:46:06.021+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 1.295 seconds
+[2024-01-08T18:46:40.322+0300] {processor.py:161} INFO - Started process (PID=16882) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:46:40.338+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:46:40.349+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:46:40.348+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:46:40.413+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:46:40.598+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:46:40.597+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:46:40.691+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:46:40.688+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:45:00+00:00, run_after=2024-01-08T15:46:00+00:00
+[2024-01-08T18:46:40.765+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.475 seconds
+[2024-01-08T18:47:11.641+0300] {processor.py:161} INFO - Started process (PID=17282) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:47:11.643+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:47:11.646+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:47:11.645+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:47:11.680+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:47:11.831+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:47:11.831+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:47:11.927+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:47:11.926+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:46:00+00:00, run_after=2024-01-08T15:47:00+00:00
+[2024-01-08T18:47:11.994+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.366 seconds
+[2024-01-08T18:47:42.764+0300] {processor.py:161} INFO - Started process (PID=17618) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:47:42.771+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:47:42.778+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:47:42.776+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:47:42.842+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:47:43.014+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:47:43.013+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:47:43.284+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:47:43.283+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:46:00+00:00, run_after=2024-01-08T15:47:00+00:00
+[2024-01-08T18:47:43.393+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.661 seconds
+[2024-01-08T18:48:18.336+0300] {processor.py:161} INFO - Started process (PID=18003) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:48:18.367+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:48:18.374+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:48:18.373+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:48:18.584+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:48:18.816+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:48:18.816+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:48:19.036+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:48:19.036+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:47:00+00:00, run_after=2024-01-08T15:48:00+00:00
+[2024-01-08T18:48:19.421+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 1.190 seconds
+[2024-01-08T18:48:49.600+0300] {processor.py:161} INFO - Started process (PID=18388) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:48:49.605+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:48:49.611+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:48:49.607+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:48:49.651+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:48:49.771+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:48:49.771+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:48:49.864+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:48:49.863+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:47:00+00:00, run_after=2024-01-08T15:48:00+00:00
+[2024-01-08T18:48:49.908+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.327 seconds
+[2024-01-08T18:49:27.357+0300] {processor.py:161} INFO - Started process (PID=18810) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:49:27.360+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:49:27.363+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:49:27.362+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:49:27.398+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:49:27.534+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:49:27.533+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:49:27.611+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:49:27.611+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:48:00+00:00, run_after=2024-01-08T15:49:00+00:00
+[2024-01-08T18:49:27.677+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.335 seconds
+[2024-01-08T18:49:58.526+0300] {processor.py:161} INFO - Started process (PID=19126) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:49:58.528+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:49:58.530+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:49:58.530+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:49:58.569+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:49:58.677+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:49:58.677+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:49:58.771+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:49:58.771+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:48:00+00:00, run_after=2024-01-08T15:49:00+00:00
+[2024-01-08T18:49:58.822+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.308 seconds
+[2024-01-08T18:50:29.740+0300] {processor.py:161} INFO - Started process (PID=19444) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:50:29.742+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:50:29.744+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:50:29.743+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:50:29.766+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:50:29.854+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:50:29.854+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:50:29.912+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:50:29.912+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:49:00+00:00, run_after=2024-01-08T15:50:00+00:00
+[2024-01-08T18:50:29.963+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.233 seconds
+[2024-01-08T18:51:02.597+0300] {processor.py:161} INFO - Started process (PID=19778) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:51:02.618+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:51:02.629+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:51:02.620+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:51:02.684+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:51:02.914+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:51:02.914+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:51:02.994+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:51:02.993+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:50:00+00:00, run_after=2024-01-08T15:51:00+00:00
+[2024-01-08T18:51:03.100+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.569 seconds
+[2024-01-08T18:51:33.371+0300] {processor.py:161} INFO - Started process (PID=20143) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:51:33.382+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:51:33.384+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:51:33.384+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:51:33.413+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:51:33.507+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:51:33.506+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:51:33.589+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:51:33.589+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:50:00+00:00, run_after=2024-01-08T15:51:00+00:00
+[2024-01-08T18:51:33.762+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.426 seconds
+[2024-01-08T18:52:07.412+0300] {processor.py:161} INFO - Started process (PID=20494) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:52:07.456+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:52:07.459+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:52:07.458+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:52:07.826+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:52:08.731+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:52:08.711+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:52:09.319+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:52:09.319+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:51:00+00:00, run_after=2024-01-08T15:52:00+00:00
+[2024-01-08T18:52:09.970+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 2.816 seconds
+[2024-01-08T18:52:40.825+0300] {processor.py:161} INFO - Started process (PID=20925) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:52:40.833+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:52:40.835+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:52:40.834+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:52:40.906+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:52:41.162+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:52:41.162+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:52:41.278+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:52:41.277+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:51:00+00:00, run_after=2024-01-08T15:52:00+00:00
+[2024-01-08T18:52:41.926+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 1.123 seconds
+[2024-01-08T18:53:48.747+0300] {processor.py:161} INFO - Started process (PID=21456) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:53:48.761+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:53:48.765+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:53:48.764+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:53:48.829+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:53:49.221+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:53:49.210+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:53:49.842+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:53:49.842+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:52:00+00:00, run_after=2024-01-08T15:53:00+00:00
+[2024-01-08T18:53:50.321+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 1.685 seconds
+[2024-01-08T18:54:26.137+0300] {processor.py:161} INFO - Started process (PID=21861) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:54:26.230+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:54:26.235+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:54:26.234+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:54:26.452+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:54:27.016+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:54:27.015+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:54:27.593+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:54:27.593+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:53:00+00:00, run_after=2024-01-08T15:54:00+00:00
+[2024-01-08T18:54:27.926+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 1.823 seconds
+[2024-01-08T18:55:00.764+0300] {processor.py:161} INFO - Started process (PID=22325) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:55:00.785+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:55:00.787+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:55:00.786+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:55:00.840+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:55:01.091+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:55:01.090+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:55:01.324+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:55:01.324+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:54:00+00:00, run_after=2024-01-08T15:55:00+00:00
+[2024-01-08T18:55:01.440+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.698 seconds
+[2024-01-08T18:55:33.145+0300] {processor.py:161} INFO - Started process (PID=22666) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:55:33.172+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:55:33.174+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:55:33.173+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:55:33.243+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:55:33.503+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:55:33.503+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:55:33.724+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:55:33.723+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:54:00+00:00, run_after=2024-01-08T15:55:00+00:00
+[2024-01-08T18:55:33.910+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.809 seconds
+[2024-01-08T18:56:04.155+0300] {processor.py:161} INFO - Started process (PID=23001) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:56:04.159+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:56:04.161+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:56:04.160+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:56:04.189+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:56:04.286+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:56:04.285+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:56:04.355+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:56:04.355+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:55:00+00:00, run_after=2024-01-08T15:56:00+00:00
+[2024-01-08T18:56:04.405+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.263 seconds
+[2024-01-08T18:56:34.623+0300] {processor.py:161} INFO - Started process (PID=23317) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:56:34.627+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:56:34.629+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:56:34.628+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:56:34.654+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:56:34.758+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:56:34.758+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:56:34.854+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:56:34.852+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:55:00+00:00, run_after=2024-01-08T15:56:00+00:00
+[2024-01-08T18:56:34.915+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.301 seconds
+[2024-01-08T18:57:08.825+0300] {processor.py:161} INFO - Started process (PID=23683) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:57:08.849+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:57:08.866+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:57:08.864+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:57:08.960+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:57:09.159+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:57:09.159+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:57:09.320+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:57:09.320+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:56:00+00:00, run_after=2024-01-08T15:57:00+00:00
+[2024-01-08T18:57:09.429+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.624 seconds
+[2024-01-08T18:57:40.082+0300] {processor.py:161} INFO - Started process (PID=24017) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:57:40.084+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:57:40.086+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:57:40.086+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:57:40.148+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:57:40.499+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:57:40.499+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:57:40.792+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:57:40.792+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:56:00+00:00, run_after=2024-01-08T15:57:00+00:00
+[2024-01-08T18:57:41.035+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.977 seconds
+[2024-01-08T18:58:11.540+0300] {processor.py:161} INFO - Started process (PID=24388) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:58:11.546+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:58:11.549+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:58:11.548+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:58:11.580+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:58:11.672+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:58:11.672+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:58:11.728+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:58:11.727+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:57:00+00:00, run_after=2024-01-08T15:58:00+00:00
+[2024-01-08T18:58:11.767+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.238 seconds
+[2024-01-08T18:58:47.513+0300] {processor.py:161} INFO - Started process (PID=24831) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:58:47.531+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:58:47.541+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:58:47.533+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:58:47.675+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:58:48.093+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:58:48.093+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:58:48.389+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:58:48.388+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:57:00+00:00, run_after=2024-01-08T15:58:00+00:00
+[2024-01-08T18:58:48.499+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.999 seconds
+[2024-01-08T18:59:18.760+0300] {processor.py:161} INFO - Started process (PID=25209) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:59:18.766+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:59:18.815+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:59:18.814+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:59:18.925+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:59:19.211+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:59:19.211+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:59:19.579+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:59:19.578+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:58:00+00:00, run_after=2024-01-08T15:59:00+00:00
+[2024-01-08T18:59:19.813+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 1.090 seconds
+[2024-01-08T18:59:50.325+0300] {processor.py:161} INFO - Started process (PID=25616) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T18:59:50.328+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T18:59:50.330+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:59:50.329+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T18:59:50.360+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T18:59:50.521+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:59:50.521+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:59:50.614+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:59:50.614+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:58:00+00:00, run_after=2024-01-08T15:59:00+00:00
+[2024-01-08T18:59:50.677+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.365 seconds
+[2024-01-08T19:00:22.801+0300] {processor.py:161} INFO - Started process (PID=26020) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T19:00:22.804+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T19:00:22.807+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:00:22.806+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T19:00:22.922+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T19:00:23.059+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:00:23.058+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:00:23.147+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:00:23.147+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:59:00+00:00, run_after=2024-01-08T16:00:00+00:00
+[2024-01-08T19:00:23.213+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.424 seconds
+[2024-01-08T19:00:53.687+0300] {processor.py:161} INFO - Started process (PID=26429) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T19:00:53.689+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T19:00:53.691+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:00:53.690+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T19:00:53.723+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T19:00:53.826+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:00:53.826+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:00:53.912+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:00:53.912+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T15:59:00+00:00, run_after=2024-01-08T16:00:00+00:00
+[2024-01-08T19:00:53.976+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.301 seconds
+[2024-01-08T19:01:26.261+0300] {processor.py:161} INFO - Started process (PID=26783) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T19:01:26.270+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T19:01:26.296+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:01:26.295+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T19:01:26.382+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T19:01:26.776+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:01:26.775+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:01:27.167+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:01:27.167+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T16:00:00+00:00, run_after=2024-01-08T16:01:00+00:00
+[2024-01-08T19:01:27.388+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 1.182 seconds
+[2024-01-08T19:01:57.658+0300] {processor.py:161} INFO - Started process (PID=27159) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T19:01:57.660+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T19:01:57.662+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:01:57.661+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T19:01:57.690+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T19:01:57.788+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:01:57.787+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:01:57.855+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:01:57.855+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T16:00:00+00:00, run_after=2024-01-08T16:01:00+00:00
+[2024-01-08T19:01:57.902+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.255 seconds
+[2024-01-08T19:02:28.235+0300] {processor.py:161} INFO - Started process (PID=27474) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T19:02:28.237+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T19:02:28.239+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:02:28.239+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T19:02:28.270+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T19:02:28.396+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:02:28.395+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:02:28.572+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:02:28.571+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T16:01:00+00:00, run_after=2024-01-08T16:02:00+00:00
+[2024-01-08T19:02:28.682+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.457 seconds
+[2024-01-08T19:03:01.234+0300] {processor.py:161} INFO - Started process (PID=27788) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T19:03:01.238+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T19:03:01.240+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:03:01.239+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T19:03:01.408+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T19:03:01.805+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:03:01.804+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:03:02.212+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:03:02.211+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T16:02:00+00:00, run_after=2024-01-08T16:03:00+00:00
+[2024-01-08T19:03:02.453+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 1.313 seconds
+[2024-01-08T19:03:32.844+0300] {processor.py:161} INFO - Started process (PID=28168) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T19:03:32.847+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T19:03:32.850+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:03:32.849+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T19:03:32.879+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T19:03:33.000+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:03:32.999+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:03:33.097+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:03:33.096+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T16:02:00+00:00, run_after=2024-01-08T16:03:00+00:00
+[2024-01-08T19:03:33.155+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.324 seconds
+[2024-01-08T19:04:03.446+0300] {processor.py:161} INFO - Started process (PID=28541) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T19:04:03.450+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T19:04:03.452+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:04:03.451+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T19:04:03.484+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T19:04:03.590+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:04:03.589+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:04:03.671+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:04:03.671+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T16:03:00+00:00, run_after=2024-01-08T16:04:00+00:00
+[2024-01-08T19:04:03.760+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.327 seconds
+[2024-01-08T19:04:35.733+0300] {processor.py:161} INFO - Started process (PID=28895) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T19:04:35.756+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T19:04:35.759+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:04:35.758+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T19:04:35.878+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T19:04:36.256+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:04:36.255+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:04:36.473+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:04:36.473+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T16:03:00+00:00, run_after=2024-01-08T16:04:00+00:00
+[2024-01-08T19:04:36.633+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.911 seconds
+[2024-01-08T19:05:06.781+0300] {processor.py:161} INFO - Started process (PID=29341) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T19:05:06.783+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T19:05:06.784+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:05:06.784+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T19:05:06.806+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T19:05:06.896+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:05:06.896+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:05:06.968+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:05:06.968+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T16:04:00+00:00, run_after=2024-01-08T16:05:00+00:00
+[2024-01-08T19:05:07.019+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.252 seconds
+[2024-01-08T19:05:43.439+0300] {processor.py:161} INFO - Started process (PID=29693) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T19:05:43.456+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T19:05:43.458+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:05:43.457+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T19:05:43.544+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T19:05:43.818+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:05:43.818+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:05:43.991+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:05:43.991+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T16:04:00+00:00, run_after=2024-01-08T16:05:00+00:00
+[2024-01-08T19:05:44.116+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.703 seconds
+[2024-01-08T19:06:14.686+0300] {processor.py:161} INFO - Started process (PID=30072) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T19:06:14.689+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T19:06:14.691+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:06:14.690+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T19:06:14.756+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T19:06:14.984+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:06:14.983+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:06:15.241+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:06:15.240+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T16:05:00+00:00, run_after=2024-01-08T16:06:00+00:00
+[2024-01-08T19:06:15.339+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.690 seconds
+[2024-01-08T19:06:49.926+0300] {processor.py:161} INFO - Started process (PID=30387) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T19:06:49.929+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T19:06:49.931+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:06:49.930+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T19:06:50.005+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T19:06:50.422+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:06:50.421+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:06:51.075+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:06:51.074+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T16:05:00+00:00, run_after=2024-01-08T16:06:00+00:00
+[2024-01-08T19:06:51.438+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 1.571 seconds
+[2024-01-08T19:07:22.436+0300] {processor.py:161} INFO - Started process (PID=30787) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T19:07:22.454+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T19:07:22.456+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:07:22.456+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T19:07:22.587+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T19:07:22.941+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:07:22.940+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:07:23.126+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:07:23.124+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T16:06:00+00:00, run_after=2024-01-08T16:07:00+00:00
+[2024-01-08T19:07:23.258+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.848 seconds
+[2024-01-08T19:07:54.585+0300] {processor.py:161} INFO - Started process (PID=31155) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T19:07:54.588+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T19:07:54.590+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:07:54.589+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T19:07:54.619+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T19:07:54.734+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:07:54.734+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:07:54.815+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:07:54.814+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T16:06:00+00:00, run_after=2024-01-08T16:07:00+00:00
+[2024-01-08T19:07:54.871+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.299 seconds
+[2024-01-08T19:08:25.696+0300] {processor.py:161} INFO - Started process (PID=31471) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T19:08:25.698+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T19:08:25.701+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:08:25.701+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T19:08:25.783+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T19:08:25.904+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:08:25.904+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:08:25.974+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:08:25.973+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T16:07:00+00:00, run_after=2024-01-08T16:08:00+00:00
+[2024-01-08T19:08:26.033+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.347 seconds
+[2024-01-08T19:09:00.722+0300] {processor.py:161} INFO - Started process (PID=31829) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T19:09:00.733+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T19:09:00.739+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:09:00.734+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T19:09:00.771+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T19:09:00.930+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:09:00.929+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:09:01.046+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:09:01.046+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T16:08:00+00:00, run_after=2024-01-08T16:09:00+00:00
+[2024-01-08T19:09:01.184+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.475 seconds
+[2024-01-08T19:09:31.790+0300] {processor.py:161} INFO - Started process (PID=32148) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T19:09:31.794+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T19:09:31.796+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:09:31.795+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T19:09:31.845+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T19:09:32.106+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:09:32.106+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:09:32.361+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:09:32.360+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T16:08:00+00:00, run_after=2024-01-08T16:09:00+00:00
+[2024-01-08T19:09:32.484+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.708 seconds
+[2024-01-08T19:10:05.014+0300] {processor.py:161} INFO - Started process (PID=32528) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T19:10:05.017+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T19:10:05.032+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:10:05.031+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T19:10:05.132+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T19:10:05.506+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:10:05.505+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:10:05.752+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:10:05.752+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T16:09:00+00:00, run_after=2024-01-08T16:10:00+00:00
+[2024-01-08T19:10:05.841+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.893 seconds
+[2024-01-08T19:10:47.526+0300] {processor.py:161} INFO - Started process (PID=32941) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T19:10:47.542+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T19:10:47.548+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:10:47.545+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T19:10:47.572+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T19:10:47.722+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:10:47.721+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:10:47.951+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:10:47.908+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T16:09:00+00:00, run_after=2024-01-08T16:10:00+00:00
+[2024-01-08T19:10:48.943+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 1.430 seconds
+[2024-01-08T19:11:21.438+0300] {processor.py:161} INFO - Started process (PID=33342) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T19:11:21.460+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T19:11:21.463+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:11:21.462+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T19:11:21.562+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T19:11:21.834+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:11:21.833+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:11:22.105+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:11:22.105+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T16:10:00+00:00, run_after=2024-01-08T16:11:00+00:00
+[2024-01-08T19:11:22.263+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.858 seconds
+[2024-01-08T19:12:07.344+0300] {processor.py:161} INFO - Started process (PID=33800) to work on /home/angry/airflow/dags/model.py
+[2024-01-08T19:12:07.350+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/model.py for tasks to queue
+[2024-01-08T19:12:07.352+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:12:07.351+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/model.py
+[2024-01-08T19:12:07.388+0300] {processor.py:840} INFO - DAG(s) 'Hello-world' retrieved from /home/angry/airflow/dags/model.py
+[2024-01-08T19:12:07.571+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:12:07.571+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:12:07.744+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:12:07.738+0300] {dag.py:3820} INFO - Setting next_dagrun for Hello-world to 2024-01-08T16:11:00+00:00, run_after=2024-01-08T16:12:00+00:00
+[2024-01-08T19:12:07.862+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/model.py took 0.547 seconds

@@ -1,0 +1,469 @@
+[2024-01-08T17:37:10.376+0300] {processor.py:161} INFO - Started process (PID=5412) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T17:37:10.379+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T17:37:10.381+0300] {logging_mixin.py:188} INFO - [2024-01-08T17:37:10.380+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T17:37:10.479+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T17:37:10.665+0300] {logging_mixin.py:188} INFO - [2024-01-08T17:37:10.664+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T17:37:10.765+0300] {logging_mixin.py:188} INFO - [2024-01-08T17:37:10.765+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T14:36:00+00:00, run_after=2024-01-08T14:37:00+00:00
+[2024-01-08T17:37:10.831+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.475 seconds
+[2024-01-08T17:37:41.506+0300] {processor.py:161} INFO - Started process (PID=5762) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T17:37:41.510+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T17:37:41.512+0300] {logging_mixin.py:188} INFO - [2024-01-08T17:37:41.511+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T17:37:41.543+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T17:37:41.692+0300] {logging_mixin.py:188} INFO - [2024-01-08T17:37:41.691+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T17:37:41.833+0300] {logging_mixin.py:188} INFO - [2024-01-08T17:37:41.832+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T14:36:00+00:00, run_after=2024-01-08T14:37:00+00:00
+[2024-01-08T17:37:41.911+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.421 seconds
+[2024-01-08T17:38:12.187+0300] {processor.py:161} INFO - Started process (PID=6078) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T17:38:12.190+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T17:38:12.193+0300] {logging_mixin.py:188} INFO - [2024-01-08T17:38:12.192+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T17:38:12.219+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T17:38:12.329+0300] {logging_mixin.py:188} INFO - [2024-01-08T17:38:12.329+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T17:38:12.442+0300] {logging_mixin.py:188} INFO - [2024-01-08T17:38:12.441+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T14:37:00+00:00, run_after=2024-01-08T14:38:00+00:00
+[2024-01-08T17:38:12.504+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.329 seconds
+[2024-01-08T17:38:43.500+0300] {processor.py:161} INFO - Started process (PID=6439) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T17:38:43.503+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T17:38:43.506+0300] {logging_mixin.py:188} INFO - [2024-01-08T17:38:43.505+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T17:38:43.533+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T17:38:43.663+0300] {logging_mixin.py:188} INFO - [2024-01-08T17:38:43.662+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T17:38:43.781+0300] {logging_mixin.py:188} INFO - [2024-01-08T17:38:43.781+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T14:37:00+00:00, run_after=2024-01-08T14:38:00+00:00
+[2024-01-08T17:38:43.863+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.376 seconds
+[2024-01-08T18:15:16.476+0300] {processor.py:161} INFO - Started process (PID=7356) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:15:16.478+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:15:16.480+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:15:16.479+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:15:16.515+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:15:16.655+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:15:16.655+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:15:16.789+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:15:16.789+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:14:00+00:00, run_after=2024-01-08T15:15:00+00:00
+[2024-01-08T18:15:16.860+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.393 seconds
+[2024-01-08T18:15:47.850+0300] {processor.py:161} INFO - Started process (PID=7695) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:15:47.864+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:15:47.868+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:15:47.867+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:15:47.900+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:15:48.017+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:15:48.017+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:15:48.106+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:15:48.106+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:14:00+00:00, run_after=2024-01-08T15:15:00+00:00
+[2024-01-08T18:15:48.171+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.353 seconds
+[2024-01-08T18:27:49.533+0300] {processor.py:161} INFO - Started process (PID=8350) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:27:49.574+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:27:49.576+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:27:49.575+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:27:49.861+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:27:50.318+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:27:50.318+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:27:50.867+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:27:50.867+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:26:00+00:00, run_after=2024-01-08T15:27:00+00:00
+[2024-01-08T18:27:51.503+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 2.041 seconds
+[2024-01-08T18:31:47.812+0300] {processor.py:161} INFO - Started process (PID=9502) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:31:47.821+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:31:47.845+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:31:47.844+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:31:48.767+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:31:50.626+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:31:50.625+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:31:51.943+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:31:51.942+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:30:00+00:00, run_after=2024-01-08T15:31:00+00:00
+[2024-01-08T18:31:52.826+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 5.249 seconds
+[2024-01-08T18:34:17.097+0300] {processor.py:161} INFO - Started process (PID=10467) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:34:17.295+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:34:17.297+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:34:17.296+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:34:18.700+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:34:20.458+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:34:20.458+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:34:21.366+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:34:21.366+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:33:00+00:00, run_after=2024-01-08T15:34:00+00:00
+[2024-01-08T18:34:21.953+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 5.256 seconds
+[2024-01-08T18:37:17.734+0300] {processor.py:161} INFO - Started process (PID=11633) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:37:17.807+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:37:17.817+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:37:17.810+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:37:18.186+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:37:19.374+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:37:19.374+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:37:20.063+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:37:20.063+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:36:00+00:00, run_after=2024-01-08T15:37:00+00:00
+[2024-01-08T18:37:21.160+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 3.637 seconds
+[2024-01-08T18:38:23.299+0300] {processor.py:161} INFO - Started process (PID=12167) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:38:23.309+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:38:23.312+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:38:23.311+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:38:23.514+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:38:24.058+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:38:24.057+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:38:25.225+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:38:25.224+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:37:00+00:00, run_after=2024-01-08T15:38:00+00:00
+[2024-01-08T18:38:25.471+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 2.443 seconds
+[2024-01-08T18:40:09.524+0300] {processor.py:161} INFO - Started process (PID=12765) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:40:09.541+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:40:09.548+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:40:09.542+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:40:09.768+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:40:12.679+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:40:12.679+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:40:15.773+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:40:15.772+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:39:00+00:00, run_after=2024-01-08T15:40:00+00:00
+[2024-01-08T18:40:16.818+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 7.566 seconds
+[2024-01-08T18:41:20.619+0300] {processor.py:161} INFO - Started process (PID=13391) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:41:20.765+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:41:20.766+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:41:20.766+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:41:20.931+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:41:21.611+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:41:21.611+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:41:22.750+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:41:22.750+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:40:00+00:00, run_after=2024-01-08T15:41:00+00:00
+[2024-01-08T18:41:23.401+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 2.841 seconds
+[2024-01-08T18:42:11.998+0300] {processor.py:161} INFO - Started process (PID=13964) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:42:12.002+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:42:12.005+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:42:12.003+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:42:12.037+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:42:12.151+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:42:12.151+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:42:12.290+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:42:12.290+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:41:00+00:00, run_after=2024-01-08T15:42:00+00:00
+[2024-01-08T18:42:12.332+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.350 seconds
+[2024-01-08T18:42:49.428+0300] {processor.py:161} INFO - Started process (PID=14380) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:42:49.496+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:42:49.521+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:42:49.498+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:42:49.664+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:42:50.309+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:42:50.309+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:42:51.014+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:42:51.013+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:41:00+00:00, run_after=2024-01-08T15:42:00+00:00
+[2024-01-08T18:42:51.446+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 2.100 seconds
+[2024-01-08T18:43:22.186+0300] {processor.py:161} INFO - Started process (PID=14748) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:43:22.190+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:43:22.192+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:43:22.191+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:43:22.238+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:43:22.396+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:43:22.396+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:43:22.489+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:43:22.489+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:42:00+00:00, run_after=2024-01-08T15:43:00+00:00
+[2024-01-08T18:43:22.565+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.395 seconds
+[2024-01-08T18:43:52.846+0300] {processor.py:161} INFO - Started process (PID=15066) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:43:52.849+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:43:52.851+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:43:52.851+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:43:52.877+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:43:52.988+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:43:52.988+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:43:53.065+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:43:53.065+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:42:00+00:00, run_after=2024-01-08T15:43:00+00:00
+[2024-01-08T18:43:53.125+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.292 seconds
+[2024-01-08T18:44:23.583+0300] {processor.py:161} INFO - Started process (PID=15382) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:44:23.586+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:44:23.589+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:44:23.588+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:44:23.613+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:44:23.754+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:44:23.754+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:44:23.847+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:44:23.846+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:43:00+00:00, run_after=2024-01-08T15:44:00+00:00
+[2024-01-08T18:44:23.909+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.336 seconds
+[2024-01-08T18:44:54.847+0300] {processor.py:161} INFO - Started process (PID=15749) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:44:54.884+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:44:54.893+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:44:54.892+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:44:55.059+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:44:55.318+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:44:55.318+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:44:55.530+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:44:55.530+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:43:00+00:00, run_after=2024-01-08T15:44:00+00:00
+[2024-01-08T18:44:55.707+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.870 seconds
+[2024-01-08T18:45:31.146+0300] {processor.py:161} INFO - Started process (PID=16155) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:45:31.163+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:45:31.165+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:45:31.164+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:45:31.219+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:45:31.503+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:45:31.502+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:45:31.805+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:45:31.805+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:44:00+00:00, run_after=2024-01-08T15:45:00+00:00
+[2024-01-08T18:45:32.051+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.934 seconds
+[2024-01-08T18:46:05.700+0300] {processor.py:161} INFO - Started process (PID=16503) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:46:05.741+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:46:05.743+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:46:05.742+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:46:05.842+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:46:06.484+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:46:06.483+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:46:06.849+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:46:06.848+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:45:00+00:00, run_after=2024-01-08T15:46:00+00:00
+[2024-01-08T18:46:07.116+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 1.476 seconds
+[2024-01-08T18:46:40.963+0300] {processor.py:161} INFO - Started process (PID=16892) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:46:40.967+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:46:40.970+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:46:40.969+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:46:40.993+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:46:41.111+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:46:41.110+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:46:41.259+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:46:41.258+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:45:00+00:00, run_after=2024-01-08T15:46:00+00:00
+[2024-01-08T18:46:41.321+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.368 seconds
+[2024-01-08T18:47:11.989+0300] {processor.py:161} INFO - Started process (PID=17289) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:47:11.991+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:47:11.993+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:47:11.992+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:47:12.019+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:47:12.139+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:47:12.139+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:47:12.287+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:47:12.287+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:46:00+00:00, run_after=2024-01-08T15:47:00+00:00
+[2024-01-08T18:47:12.371+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.394 seconds
+[2024-01-08T18:47:43.415+0300] {processor.py:161} INFO - Started process (PID=17627) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:47:43.418+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:47:43.422+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:47:43.420+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:47:43.487+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:47:43.643+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:47:43.642+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:47:43.740+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:47:43.740+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:46:00+00:00, run_after=2024-01-08T15:47:00+00:00
+[2024-01-08T18:47:43.791+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.399 seconds
+[2024-01-08T18:48:19.878+0300] {processor.py:161} INFO - Started process (PID=18016) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:48:19.920+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:48:19.921+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:48:19.921+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:48:20.209+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:48:21.033+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:48:21.021+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:48:21.362+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:48:21.362+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:47:00+00:00, run_after=2024-01-08T15:48:00+00:00
+[2024-01-08T18:48:21.703+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 1.923 seconds
+[2024-01-08T18:48:52.009+0300] {processor.py:161} INFO - Started process (PID=18400) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:48:52.011+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:48:52.014+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:48:52.013+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:48:52.037+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:48:52.128+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:48:52.127+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:48:52.192+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:48:52.191+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:47:00+00:00, run_after=2024-01-08T15:48:00+00:00
+[2024-01-08T18:48:52.279+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.281 seconds
+[2024-01-08T18:49:27.520+0300] {processor.py:161} INFO - Started process (PID=18816) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:49:27.523+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:49:27.526+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:49:27.525+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:49:27.556+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:49:27.693+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:49:27.692+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:49:27.807+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:49:27.806+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:48:00+00:00, run_after=2024-01-08T15:49:00+00:00
+[2024-01-08T18:49:27.881+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.375 seconds
+[2024-01-08T18:49:58.610+0300] {processor.py:161} INFO - Started process (PID=19131) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:49:58.612+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:49:58.617+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:49:58.615+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:49:58.644+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:49:58.766+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:49:58.765+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:49:58.864+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:49:58.864+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:48:00+00:00, run_after=2024-01-08T15:49:00+00:00
+[2024-01-08T18:49:58.995+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.398 seconds
+[2024-01-08T18:50:30.029+0300] {processor.py:161} INFO - Started process (PID=19450) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:50:30.031+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:50:30.033+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:50:30.033+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:50:30.066+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:50:30.201+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:50:30.200+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:50:30.310+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:50:30.310+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:49:00+00:00, run_after=2024-01-08T15:50:00+00:00
+[2024-01-08T18:50:30.421+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.403 seconds
+[2024-01-08T18:51:02.767+0300] {processor.py:161} INFO - Started process (PID=19783) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:51:02.774+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:51:02.775+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:51:02.775+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:51:02.827+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:51:03.051+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:51:03.051+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:51:03.174+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:51:03.173+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:50:00+00:00, run_after=2024-01-08T15:51:00+00:00
+[2024-01-08T18:51:03.274+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.525 seconds
+[2024-01-08T18:51:35.153+0300] {processor.py:161} INFO - Started process (PID=20158) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:51:35.159+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:51:35.161+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:51:35.160+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:51:35.249+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:51:35.491+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:51:35.490+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:51:35.761+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:51:35.760+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:50:00+00:00, run_after=2024-01-08T15:51:00+00:00
+[2024-01-08T18:51:35.889+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.779 seconds
+[2024-01-08T18:52:10.877+0300] {processor.py:161} INFO - Started process (PID=20516) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:52:10.923+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:52:10.925+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:52:10.925+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:52:11.227+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:52:11.947+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:52:11.947+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:52:12.596+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:52:12.596+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:51:00+00:00, run_after=2024-01-08T15:52:00+00:00
+[2024-01-08T18:52:13.206+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 2.482 seconds
+[2024-01-08T18:52:43.827+0300] {processor.py:161} INFO - Started process (PID=20943) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:52:43.834+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:52:43.836+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:52:43.835+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:52:43.950+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:52:44.236+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:52:44.234+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:52:44.521+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:52:44.520+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:51:00+00:00, run_after=2024-01-08T15:52:00+00:00
+[2024-01-08T18:52:44.832+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 1.032 seconds
+[2024-01-08T18:53:49.134+0300] {processor.py:161} INFO - Started process (PID=21464) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:53:49.151+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:53:49.184+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:53:49.182+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:53:49.523+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:53:50.185+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:53:50.185+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:53:50.701+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:53:50.701+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:52:00+00:00, run_after=2024-01-08T15:53:00+00:00
+[2024-01-08T18:53:51.052+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 1.997 seconds
+[2024-01-08T18:54:27.181+0300] {processor.py:161} INFO - Started process (PID=21875) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:54:27.249+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:54:27.271+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:54:27.270+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:54:27.436+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:54:28.040+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:54:28.040+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:54:28.516+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:54:28.516+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:53:00+00:00, run_after=2024-01-08T15:54:00+00:00
+[2024-01-08T18:54:28.919+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 1.809 seconds
+[2024-01-08T18:55:01.196+0300] {processor.py:161} INFO - Started process (PID=22332) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:55:01.198+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:55:01.200+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:55:01.200+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:55:01.299+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:55:01.566+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:55:01.565+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:55:01.743+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:55:01.743+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:54:00+00:00, run_after=2024-01-08T15:55:00+00:00
+[2024-01-08T18:55:01.960+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.824 seconds
+[2024-01-08T18:55:34.117+0300] {processor.py:161} INFO - Started process (PID=22677) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:55:34.127+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:55:34.129+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:55:34.128+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:55:34.212+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:55:34.537+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:55:34.536+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:55:34.923+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:55:34.922+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:54:00+00:00, run_after=2024-01-08T15:55:00+00:00
+[2024-01-08T18:55:35.208+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 1.138 seconds
+[2024-01-08T18:56:05.535+0300] {processor.py:161} INFO - Started process (PID=23011) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:56:05.543+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:56:05.544+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:56:05.544+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:56:05.592+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:56:05.695+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:56:05.695+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:56:05.767+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:56:05.766+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:55:00+00:00, run_after=2024-01-08T15:56:00+00:00
+[2024-01-08T18:56:05.829+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.314 seconds
+[2024-01-08T18:56:36.028+0300] {processor.py:161} INFO - Started process (PID=23326) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:56:36.031+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:56:36.034+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:56:36.033+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:56:36.067+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:56:36.215+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:56:36.215+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:56:36.371+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:56:36.371+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:55:00+00:00, run_after=2024-01-08T15:56:00+00:00
+[2024-01-08T18:56:36.464+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.448 seconds
+[2024-01-08T18:57:09.635+0300] {processor.py:161} INFO - Started process (PID=23689) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:57:09.647+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:57:09.649+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:57:09.648+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:57:09.682+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:57:09.809+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:57:09.809+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:57:09.928+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:57:09.927+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:56:00+00:00, run_after=2024-01-08T15:57:00+00:00
+[2024-01-08T18:57:10.059+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.467 seconds
+[2024-01-08T18:57:42.043+0300] {processor.py:161} INFO - Started process (PID=24031) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:57:42.061+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:57:42.064+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:57:42.063+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:57:42.203+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:57:42.526+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:57:42.526+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:57:42.906+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:57:42.906+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:56:00+00:00, run_after=2024-01-08T15:57:00+00:00
+[2024-01-08T18:57:43.089+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 1.084 seconds
+[2024-01-08T18:58:13.625+0300] {processor.py:161} INFO - Started process (PID=24410) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:58:13.628+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:58:13.643+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:58:13.642+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:58:13.697+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:58:13.849+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:58:13.849+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:58:13.987+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:58:13.987+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:57:00+00:00, run_after=2024-01-08T15:58:00+00:00
+[2024-01-08T18:58:14.062+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.467 seconds
+[2024-01-08T18:58:48.694+0300] {processor.py:161} INFO - Started process (PID=24848) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:58:48.702+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:58:48.711+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:58:48.710+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:58:48.758+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:58:48.906+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:58:48.905+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:58:49.010+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:58:49.009+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:57:00+00:00, run_after=2024-01-08T15:58:00+00:00
+[2024-01-08T18:58:49.079+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.414 seconds
+[2024-01-08T18:59:19.843+0300] {processor.py:161} INFO - Started process (PID=25218) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:59:19.858+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:59:19.860+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:59:19.860+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:59:19.958+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:59:20.256+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:59:20.255+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:59:20.472+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:59:20.471+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:58:00+00:00, run_after=2024-01-08T15:59:00+00:00
+[2024-01-08T18:59:20.633+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.826 seconds
+[2024-01-08T18:59:50.821+0300] {processor.py:161} INFO - Started process (PID=25623) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T18:59:50.839+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T18:59:50.842+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:59:50.841+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:59:50.874+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T18:59:51.005+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:59:51.004+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T18:59:51.254+0300] {logging_mixin.py:188} INFO - [2024-01-08T18:59:51.253+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:58:00+00:00, run_after=2024-01-08T15:59:00+00:00
+[2024-01-08T18:59:51.401+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.618 seconds
+[2024-01-08T19:00:23.327+0300] {processor.py:161} INFO - Started process (PID=26029) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T19:00:23.329+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T19:00:23.332+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:00:23.330+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:00:23.359+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:00:23.475+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:00:23.474+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:00:23.642+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:00:23.641+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:59:00+00:00, run_after=2024-01-08T16:00:00+00:00
+[2024-01-08T19:00:23.725+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.410 seconds
+[2024-01-08T19:00:54.832+0300] {processor.py:161} INFO - Started process (PID=26447) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T19:00:54.836+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T19:00:54.839+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:00:54.838+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:00:54.890+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:00:55.048+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:00:55.047+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:00:55.312+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:00:55.311+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T15:59:00+00:00, run_after=2024-01-08T16:00:00+00:00
+[2024-01-08T19:00:55.421+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.599 seconds
+[2024-01-08T19:01:28.942+0300] {processor.py:161} INFO - Started process (PID=26820) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T19:01:28.970+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T19:01:28.972+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:01:28.971+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:01:29.096+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:01:29.656+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:01:29.655+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:01:30.036+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:01:30.036+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T16:00:00+00:00, run_after=2024-01-08T16:01:00+00:00
+[2024-01-08T19:01:30.370+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 1.458 seconds
+[2024-01-08T19:02:01.048+0300] {processor.py:161} INFO - Started process (PID=27178) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T19:02:01.052+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T19:02:01.054+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:02:01.054+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:02:01.094+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:02:01.241+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:02:01.240+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:02:01.343+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:02:01.343+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T16:01:00+00:00, run_after=2024-01-08T16:02:00+00:00
+[2024-01-08T19:02:01.415+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.385 seconds
+[2024-01-08T19:02:31.939+0300] {processor.py:161} INFO - Started process (PID=27495) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T19:02:31.942+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T19:02:31.945+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:02:31.944+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:02:31.974+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:02:32.087+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:02:32.087+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:02:32.152+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:02:32.152+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T16:01:00+00:00, run_after=2024-01-08T16:02:00+00:00
+[2024-01-08T19:02:32.195+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.270 seconds
+[2024-01-08T19:03:08.371+0300] {processor.py:161} INFO - Started process (PID=27827) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T19:03:08.429+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T19:03:08.438+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:03:08.437+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:03:08.757+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:03:09.790+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:03:09.790+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:03:10.479+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:03:10.436+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T16:02:00+00:00, run_after=2024-01-08T16:03:00+00:00
+[2024-01-08T19:03:10.818+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 2.482 seconds
+[2024-01-08T19:03:41.385+0300] {processor.py:161} INFO - Started process (PID=28221) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T19:03:41.389+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T19:03:41.391+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:03:41.390+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:03:41.442+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:03:41.793+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:03:41.793+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:03:42.040+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:03:42.036+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T16:02:00+00:00, run_after=2024-01-08T16:03:00+00:00
+[2024-01-08T19:03:42.237+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.872 seconds
+[2024-01-08T19:04:12.995+0300] {processor.py:161} INFO - Started process (PID=28627) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T19:04:12.998+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T19:04:13.000+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:04:12.999+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:04:13.025+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:04:13.142+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:04:13.142+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:04:13.319+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:04:13.318+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T16:03:00+00:00, run_after=2024-01-08T16:04:00+00:00
+[2024-01-08T19:04:13.401+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.418 seconds
+[2024-01-08T19:04:44.181+0300] {processor.py:161} INFO - Started process (PID=28982) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T19:04:44.219+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T19:04:44.229+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:04:44.229+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:04:44.412+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:04:44.862+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:04:44.862+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:04:45.232+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:04:45.232+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T16:03:00+00:00, run_after=2024-01-08T16:04:00+00:00
+[2024-01-08T19:04:45.472+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 1.352 seconds
+[2024-01-08T19:05:15.927+0300] {processor.py:161} INFO - Started process (PID=29412) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T19:05:15.943+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T19:05:15.946+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:05:15.944+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:05:16.002+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:05:16.382+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:05:16.382+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:05:16.700+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:05:16.699+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T16:04:00+00:00, run_after=2024-01-08T16:05:00+00:00
+[2024-01-08T19:05:16.963+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 1.096 seconds
+[2024-01-08T19:05:58.693+0300] {processor.py:161} INFO - Started process (PID=29846) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T19:05:58.699+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T19:05:58.700+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:05:58.700+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:05:58.781+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:05:58.917+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:05:58.917+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:05:58.984+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:05:58.983+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T16:04:00+00:00, run_after=2024-01-08T16:05:00+00:00
+[2024-01-08T19:05:59.029+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.387 seconds
+[2024-01-08T19:06:31.316+0300] {processor.py:161} INFO - Started process (PID=30210) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T19:06:31.363+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T19:06:31.368+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:06:31.367+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:06:31.528+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:06:31.751+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:06:31.751+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:06:32.119+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:06:32.119+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T16:05:00+00:00, run_after=2024-01-08T16:06:00+00:00
+[2024-01-08T19:06:32.340+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 1.113 seconds
+[2024-01-08T19:07:08.900+0300] {processor.py:161} INFO - Started process (PID=30563) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T19:07:08.918+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T19:07:08.924+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:07:08.923+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:07:08.968+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:07:09.075+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:07:09.075+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:07:09.178+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:07:09.178+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T16:06:00+00:00, run_after=2024-01-08T16:07:00+00:00
+[2024-01-08T19:07:09.238+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.362 seconds
+[2024-01-08T19:07:41.071+0300] {processor.py:161} INFO - Started process (PID=30947) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T19:07:41.073+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T19:07:41.076+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:07:41.075+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:07:41.262+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:07:41.899+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:07:41.898+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:07:42.399+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:07:42.395+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T16:06:00+00:00, run_after=2024-01-08T16:07:00+00:00
+[2024-01-08T19:07:42.620+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 1.585 seconds
+[2024-01-08T19:08:13.403+0300] {processor.py:161} INFO - Started process (PID=31302) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T19:08:13.405+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T19:08:13.407+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:08:13.406+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:08:13.430+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:08:13.522+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:08:13.522+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:08:13.599+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:08:13.599+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T16:07:00+00:00, run_after=2024-01-08T16:08:00+00:00
+[2024-01-08T19:08:13.646+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.252 seconds
+[2024-01-08T19:08:43.707+0300] {processor.py:161} INFO - Started process (PID=31618) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T19:08:43.710+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T19:08:43.712+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:08:43.711+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:08:43.738+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:08:43.848+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:08:43.847+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:08:43.918+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:08:43.917+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T16:07:00+00:00, run_after=2024-01-08T16:08:00+00:00
+[2024-01-08T19:08:43.971+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.275 seconds
+[2024-01-08T19:09:14.354+0300] {processor.py:161} INFO - Started process (PID=31997) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T19:09:14.356+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T19:09:14.358+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:09:14.357+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:09:14.379+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:09:14.464+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:09:14.463+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:09:14.528+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:09:14.527+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T16:08:00+00:00, run_after=2024-01-08T16:09:00+00:00
+[2024-01-08T19:09:14.577+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.235 seconds
+[2024-01-08T19:09:45.533+0300] {processor.py:161} INFO - Started process (PID=32376) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T19:09:45.536+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T19:09:45.538+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:09:45.537+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:09:45.574+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:09:45.663+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:09:45.662+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:09:45.727+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:09:45.727+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T16:08:00+00:00, run_after=2024-01-08T16:09:00+00:00
+[2024-01-08T19:09:45.774+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.251 seconds
+[2024-01-08T19:10:24.181+0300] {processor.py:161} INFO - Started process (PID=32725) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T19:10:24.212+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T19:10:24.216+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:10:24.215+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:10:24.346+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:10:24.505+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:10:24.497+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:10:24.692+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:10:24.691+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T16:09:00+00:00, run_after=2024-01-08T16:10:00+00:00
+[2024-01-08T19:10:24.802+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.636 seconds
+[2024-01-08T19:11:03.828+0300] {processor.py:161} INFO - Started process (PID=33093) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T19:11:03.859+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T19:11:03.862+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:11:03.861+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:11:03.972+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:11:04.610+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:11:04.610+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:11:05.142+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:11:05.142+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T16:10:00+00:00, run_after=2024-01-08T16:11:00+00:00
+[2024-01-08T19:11:05.398+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 1.684 seconds
+[2024-01-08T19:11:39.392+0300] {processor.py:161} INFO - Started process (PID=33459) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T19:11:39.436+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T19:11:39.438+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:11:39.437+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:11:39.478+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:11:39.967+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:11:39.967+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:11:40.561+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:11:40.560+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T16:10:00+00:00, run_after=2024-01-08T16:11:00+00:00
+[2024-01-08T19:11:42.381+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 3.100 seconds
+[2024-01-08T19:12:13.285+0300] {processor.py:161} INFO - Started process (PID=33896) to work on /home/angry/airflow/dags/bash.py
+[2024-01-08T19:12:13.289+0300] {processor.py:830} INFO - Processing file /home/angry/airflow/dags/bash.py for tasks to queue
+[2024-01-08T19:12:13.291+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:12:13.290+0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:12:13.315+0300] {processor.py:840} INFO - DAG(s) 'LS_Bash_example' retrieved from /home/angry/airflow/dags/bash.py
+[2024-01-08T19:12:13.420+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:12:13.419+0300] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-08T19:12:13.502+0300] {logging_mixin.py:188} INFO - [2024-01-08T19:12:13.501+0300] {dag.py:3820} INFO - Setting next_dagrun for LS_Bash_example to 2024-01-08T16:11:00+00:00, run_after=2024-01-08T16:12:00+00:00
+[2024-01-08T19:12:13.548+0300] {processor.py:183} INFO - Processing /home/angry/airflow/dags/bash.py took 0.272 seconds

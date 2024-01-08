@@ -1,0 +1,28 @@
+[2024-01-08T18:51:55.160+0300] {taskinstance.py:1957} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: youtube_comments_score.get_data scheduled__2023-01-10T00:00:00+00:00 [queued]>
+[2024-01-08T18:51:55.338+0300] {taskinstance.py:1957} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: youtube_comments_score.get_data scheduled__2023-01-10T00:00:00+00:00 [queued]>
+[2024-01-08T18:51:55.339+0300] {taskinstance.py:2171} INFO - Starting attempt 2 of 2
+[2024-01-08T18:51:56.496+0300] {taskinstance.py:2192} INFO - Executing <Task(BashOperator): get_data> on 2023-01-10 00:00:00+00:00
+[2024-01-08T18:51:56.612+0300] {standard_task_runner.py:60} INFO - Started process 20380 to run task
+[2024-01-08T18:51:56.701+0300] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'youtube_comments_score', 'get_data', 'scheduled__2023-01-10T00:00:00+00:00', '--job-id', '1559', '--raw', '--subdir', 'DAGS_FOLDER/youtube_comments_score.py', '--cfg-path', '/tmp/tmpyh7keio4']
+[2024-01-08T18:51:56.792+0300] {standard_task_runner.py:88} INFO - Job 1559: Subtask get_data
+[2024-01-08T18:51:58.260+0300] {task_command.py:423} INFO - Running <TaskInstance: youtube_comments_score.get_data scheduled__2023-01-10T00:00:00+00:00 [running]> on host airflow
+[2024-01-08T18:52:00.349+0300] {taskinstance.py:2481} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='admin' AIRFLOW_CTX_DAG_ID='youtube_comments_score' AIRFLOW_CTX_TASK_ID='get_data' AIRFLOW_CTX_EXECUTION_DATE='2023-01-10T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-01-10T00:00:00+00:00'
+[2024-01-08T18:52:00.363+0300] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2024-01-08T18:52:00.402+0300] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'python3 /home/angry/mlops_3/scripts/get_data.py']
+[2024-01-08T18:52:00.562+0300] {subprocess.py:86} INFO - Output:
+[2024-01-08T18:52:09.477+0300] {subprocess.py:93} INFO - Traceback (most recent call last):
+[2024-01-08T18:52:09.478+0300] {subprocess.py:93} INFO -   File "/home/angry/mlops_3/scripts/get_data.py", line 25, in <module>
+[2024-01-08T18:52:09.479+0300] {subprocess.py:93} INFO -     for item in data['items']:
+[2024-01-08T18:52:09.479+0300] {subprocess.py:93} INFO - KeyError: 'items'
+[2024-01-08T18:52:09.699+0300] {subprocess.py:97} INFO - Command exited with return code 1
+[2024-01-08T18:52:10.504+0300] {taskinstance.py:2699} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/taskinstance.py", line 433, in _execute_task
+    result = execute_callable(context=context, **execute_callable_kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/operators/bash.py", line 212, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2024-01-08T18:52:10.670+0300] {taskinstance.py:1138} INFO - Marking task as FAILED. dag_id=youtube_comments_score, task_id=get_data, execution_date=20230110T000000, start_date=20240108T155155, end_date=20240108T155210
+[2024-01-08T18:52:13.337+0300] {standard_task_runner.py:107} ERROR - Failed to execute job 1559 for task get_data (Bash command failed. The command returned a non-zero exit code 1.; 20380)
+[2024-01-08T18:52:14.309+0300] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2024-01-08T18:52:16.670+0300] {taskinstance.py:3281} INFO - 0 downstream tasks scheduled from follow-on schedule check
